@@ -1,6 +1,11 @@
 # Do-You-Need-A-BoyFriend
 A BFS Algorithm visualization in python
 
+In my batch, one of my classmates did this one in Java. I didn't know Java at that time so I implemented it in python. As previously I did some
+games using pygame, I had some knowledge of pygame module. However, I didn't use it for a long time so I built it by keeping open the documentation
+tab of pygame. I searched the youtube after I built it to get help on showing the shortest path highlighted in the grid and found an algorithm
+called A*. In future I wish to accomodate the A* algorithm in this.
+
 1. Empty grid -
 
 ![](images/picture1.png)
